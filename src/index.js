@@ -7,7 +7,7 @@ const app = express();
 app.use(express.static('src/public'));
 const routes = require('./routes/index');
 const { hola, chau } = require('./modules/parcial');
-
+// dfdfddfdg
 // var server = http.createServer(function(request, response) {
 //   var parsed = url.parse(request.url);
 //   console.log("parsed:", parsed);
